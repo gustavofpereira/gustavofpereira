@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img alt="githubdark-logo" src="https://cdn.jsdelivr.net/gh/StylishThemes/logos@master/github.dark/githubdark-mini.svg" width="580">
+  <img alt="githubdarkreadme-logo" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/readme-github.png" width="580">
   
 </p>
 <h2 align="center">Your eyes will&nbsp;:heart:&nbsp;you.</h2>
