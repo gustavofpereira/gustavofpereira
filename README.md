@@ -1,4 +1,5 @@
-?theme=dracula
+![Gustavo Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gustavofpereira&show_icons=true&theme=radical)
+
 ### Hi everyone, I´m Gustavo Pereira, a tech enthusiastic and this is my GitHub repository.
 
 - 🌱 I’m currently learning web development
