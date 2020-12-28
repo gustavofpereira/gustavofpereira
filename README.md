@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="githubdark-logo" src="https://cdn.jsdelivr.net/gh/StylishThemes/logos@master/github.dark/githubdark-mini.svg" width="580">
+  
+</p>
+<h2 align="center">Your eyes will&nbsp;:heart:&nbsp;you.</h2>
+
 ### Hi everyone, I´m Gustavo Pereira, a tech enthusiastic and this is my GitHub repository.
 
 - 🌱 I’m currently learning web development
