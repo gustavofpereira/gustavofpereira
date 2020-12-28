@@ -1,3 +1,4 @@
+?theme=dracula
 ### Hi everyone, I´m Gustavo Pereira, a tech enthusiastic and this is my GitHub repository.
 
 - 🌱 I’m currently learning web development
