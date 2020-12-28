@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with anyone that is starting as a DEV like me
 - 💬 Ask me about ...
 - 📫 How to reach me: engenheirogustavo@gmail.com and https://www.linkedin.com/in/gustavo-pereira-915b4a/
-- ⚡ Fun fact: I love to travel, study about wine, beer, to cook! Yes, please ask me to prepare Prime Ribs BBQ! http://tail-gate.blogspot.com/2008/11/pork-ribs.html It was my inspiration to learn it!
+- ⚡ Fun fact: I love to travel, study about wine, beer, and to cook! Yes, please ask me to prepare Prime Ribs BBQ! http://tail-gate.blogspot.com/2008/11/pork-ribs.html It was my inspiration to learn it!
 
 <!--
 **gustavofpereira/gustavofpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
