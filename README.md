@@ -13,9 +13,7 @@
 - 📫 How to reach me: engenheirogustavo@gmail.com and https://www.linkedin.com/in/gustavo-pereira-915b4a/
 - ⚡ Fun fact: I love to travel, study about wine, beer, and to cook! Yes, please ask me to prepare Prime Ribs BBQ! http://tail-gate.blogspot.com/2008/11/pork-ribs.html It was my inspiration to learn it!
 
-
-
-<p align="left">
+<p align="right">
     <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/catpng.png" width="180">
 </p>
 
