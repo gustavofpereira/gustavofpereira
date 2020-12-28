@@ -15,7 +15,7 @@
 
 
 
-<p align="center">
+<p align="left">
     <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/catpng.png" width="180">
-    ![Gustavo Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gustavofpereira&show_icons=true&theme=radical)
 </p>
+ ![Gustavo Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gustavofpereira&show_icons=true&theme=radical)
