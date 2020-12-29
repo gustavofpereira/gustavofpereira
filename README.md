@@ -16,7 +16,7 @@
 
 <br/>
 
-![Gustavo Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gustavofpereira&show_icons=true&theme=dracula&title_color=fff&icon_color=336DE0&text_color=9f9f9f&bg_color=151515)
+![Gustavo Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gustavofpereira&show_icons=true&theme=dracula&title_color=fff&icon_color=477FF0&text_color=9f9f9f&bg_color=151515)
 <p align="right">
     <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/greycat.png" width="140">
 </p>
