@@ -1,7 +1,7 @@
 <p align="center">
     <img alt="githubdarkreadme-logo" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/readme-github.png" width="580">
 </p>
-<h2 align="center">**Dark** Theme: Your eyes will&nbsp;:heart:&nbsp;you.</h2>
+<h2 align="center">[**Dark** Theme](https://github.com/StylishThemes): Your eyes will&nbsp;:heart:&nbsp;you.</h2>
 
 <br/>
 
