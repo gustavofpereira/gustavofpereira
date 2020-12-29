@@ -17,6 +17,6 @@
 <br/>
 
 ![Gustavo Pereira's github stats](https://github-readme-stats.vercel.app/api?username=gustavofpereira&show_icons=true&theme=dracula&align=justify&width="120")
-<p align="center">
-    <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/greycat.png" width="120">
+<p align="right">
+    <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/greycat.png" width="140">
 </p>
