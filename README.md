@@ -22,5 +22,4 @@
     <a href="https://github.com/gustavofpereira">
     <img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140">
     </a>
- //   <img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140">(https://github.com/gustavofpereira)
 </p>
