@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on other student´s repositories
-- 🤔 I’m tryeing to help anyone that is starting as a DEV like me
+- 🤔 I’m trying to help anyone that is starting as a DEV like me
 - 💬 Ask me about ...
 - 📫 How to reach me: engenheirogustavo@gmail.com and https://www.linkedin.com/in/gustavo-pereira-915b4a/
 - ⚡ Fun fact: I love to travel, cats, study about wine, beer, and cooking! Yes, please ask me to prepare Prime Ribs BBQ! http://tail-gate.blogspot.com/2008/11/pork-ribs.html <- it was my inspiration to learn it!
