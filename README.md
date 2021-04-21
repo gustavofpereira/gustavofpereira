@@ -7,7 +7,7 @@
 
 ### Hi everyone, I´m Gustavo Pereira, a tech enthusiastic and this is my GitHub repository.
 
-- 🌱 I'm currently learning web development and C#
+- 🌱 I'm currently learning web development, Java, and QA
 - 👯 I'm looking to collaborate on other student's repositories
 - 🤔 I'm trying to help anyone whos starting out as a DEV like me
 - 💬 Ask me about ... let's talk :)
