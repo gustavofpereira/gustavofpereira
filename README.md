@@ -12,7 +12,7 @@
 - 🤔 I'm trying to help anyone whos starting out as a DEV/QA like me
 - 💬 Ask me about ... let's talk :)
 - 📫 How to reach me: engenheirogustavo@gmail.com and https://www.linkedin.com/in/gustavo-pereira-915b4a/
-- ⚡ Fun fact: I love to travel, cats, study about wine, beer, and cooking! Yes, please ask me to prepare Prime Ribs BBQ! http://tail-gate.blogspot.com/2008/11/pork-ribs.html <- it was my inspiration to learn it!
+- ⚡ Fun fact: I love to travel, cats, study about wine, beer, and cooking! Yes, please ask me to prepare <a href="https://github.com/gustavofpereira/cookbook?tab=readme-ov-file" target="_blank">Prime Ribs BBQ!</a> http://tail-gate.blogspot.com/2008/11/pork-ribs.html <- it was my inspiration to learn it!
 
 <br>
 
