@@ -7,9 +7,9 @@
 
 ### Hi everyone, I´m Gustavo Pereira, a tech enthusiastic and this is my GitHub repository.
 
-- 🌱 I'm currently acting as QA Automation Tests Analyst (mobile: Android/iOS, Web and API´s), and I´m learning topics related to IT ❤️
+- 🌱 I'm currently acting as QA Automation Tests Analyst (API´s, Web and mobile), and learning IT´s related topics ❤️
 - 👯 I'm looking to collaborate on other student's repositories
-- 🤔 I'm trying to help anyone whos starting out as a DEV/QA like me
+- 🤔 I'm trying to help anyone whos starting out as a DEV/QA/Scrum
 - 💬 Ask me about ... let's talk :)
 - 📫 How to reach me: engenheirogustavo@gmail.com and https://www.linkedin.com/in/gustavo-pereira-915b4a/
 - ⚡ Fun fact: I love to travel, cats, study about wine, beer, and cooking! Yes, please ask me to prepare <a href="https://github.com/gustavofpereira/cookbook?tab=readme-ov-file" target="_blank">Prime Ribs BBQ!</a> It was my inspiration to learn it! -> http://tail-gate.blogspot.com/2008/11/pork-ribs.html <- 
