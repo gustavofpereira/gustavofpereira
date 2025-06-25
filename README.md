@@ -7,7 +7,12 @@
 
 ### Hi everyone, I´m Gustavo Pereira, a tech enthusiastic and this is my GitHub repository.
 
-- 🌱 I'm currently acting as QA Automation Tests Analyst (API´s, Web and mobile), and learning IT´s related topics ❤️
+- 🌱 I am currently working with software development as Scrum Master/QA (web, mobile, and API´s) and studying: cloud computing, coding, Java (Spring Boot), JavaScript, and Front-end web development.
+- 🔎 And acting as a QA - Automated Software Testing:
+    - BDD / Cucumber / PageObject / Robot Pattern
+    - API: Postman / Robot Framework / jMeter
+    - Web: Selenium / Cypress
+    - Mobile: JavaScript / Kotlin / Swift / Appium / CodeceptJS / Espresso / XCUITest
 - 👯 I'm looking to collaborate on other student's repositories
 - 🤔 I'm trying to help anyone whos starting out as a DEV/QA/Scrum
 - 💬 Ask me about ... let's talk :)
